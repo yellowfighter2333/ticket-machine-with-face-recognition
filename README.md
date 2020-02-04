@@ -1,8 +1,9 @@
 # ticket-machine-with-face-recognition
 it is a project sponsored by school,whose main function is self-explanary as the name。    
 这个project主要分成三个部分进行：硬件，嵌入式及前段开发，以及人脸识别部分
--(+*) 2020.2.4晚讨论结果:  
-![整个项目成品的workflow]
+
+- 2020.2.4晚讨论结果:  
+![整个项目成品的workflow]()
 
 
 
